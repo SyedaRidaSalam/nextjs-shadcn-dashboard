@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ShadCN Analytics Dashboard
 
-## Getting Started
+A modern, **interactive frontend dashboard** built with **Next.js** and **ShadCN UI components**.  
+Designed to showcase **responsive UI components, charts, tables, and form validation** in a professional dashboard layout.
 
-First, run the development server:
+---
+
+## Features
+
+- Interactive **charts and graphs** for analytics visualization  
+- Dynamic-looking **tables** using **TanStack Table**  
+- **Form validation** with **Zod**  
+- Fully **responsive design** for desktop and mobile  
+- Built entirely with **frontend technologies** using **ShadCN UI**  
+- Ideal for portfolio, UI showcase, or frontend dashboard templates  
+
+---
+
+## Tech Stack
+
+- **Next.js 14 (App Router)**  
+- **React**  
+- **TypeScript**  
+- **ShadCN UI**  
+- **Zod**  
+- **TanStack Table**  
+- **Tailwind CSS**  
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SyedRidaSalam/nextjs-shadcn-dashboard.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd nextjs-shadcn-dashboard
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Usage
 
-## Learn More
+This project is a **frontend-only dashboard template** showcasing:
 
-To learn more about Next.js, take a look at the following resources:
+- Responsive design  
+- Interactive UI components  
+- Charts and tables with TanStack Table  
+- Form validation with Zod  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+It’s perfect for adding to your **portfolio** to demonstrate **frontend and UI skills**.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Easily deploy to **Vercel** or any static hosting platform.  
+- Deployment uses the **main branch** from your GitHub repository.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Author
+
+**Syeda Rida Salam** – Full Stack Developer  
+
+GitHub: [https://github.com/SyedRidaSalam](https://github.com/SyedaRidaSalam)  
+
+---
+
+## License
+
+This project is **open source** and free to use.
